@@ -1,4 +1,4 @@
-# Setting Up a Virtual Environment for Machine Learning in Quantum Physics
+# Machine Learning in Quantum Physics
 
 To keep your machine learning projects organized, it's best to use a **virtual environment** with Conda.  
 This helps manage dependencies and avoid conflicts between different projects.
