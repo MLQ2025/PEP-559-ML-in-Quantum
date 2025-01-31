@@ -9,8 +9,3 @@ This course aims to provide a strong foundation in machine learning techniques a
 - Supervised, unsupervised, and reinforcement learning
 - Neural networks and deep learning
 - Application in quantum state classification, Hamiltonian learning, quantum error correction, and quantum simulation
-
-## Repository structure
-
-The repository is organized as follows:
-- 
