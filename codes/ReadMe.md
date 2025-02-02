@@ -21,7 +21,7 @@ conda update conda # Update Conda to the latest version
 ## **2. Creating a Virtual Environment**
 To create a *virtual environment*, run
 ```bash
-conda create --name env_ml4quantum physics=3.12
+conda create --name env_ml4quantum python=3.12
 ```
 Then activate or deactivate the environment
 ```bash
