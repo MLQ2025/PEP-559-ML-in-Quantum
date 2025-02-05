@@ -10,7 +10,7 @@
 - Using the first 100 rows of the Iris dataset to test the demo codes with the Adaline learning rule.
 - For a given number of iterations, e.g., 200, plot the MSE loss function as a function of learning rate $\eta$.
 - Identify a critical $\eta$, beyond which the loss function does not converge.
-- For the adaptive learning rate, $\eta=c_1/(N + c_2)$ where $N=200$ is the number of iterations, create a 2D heatmap to show the loss function (after 200 iterations) as a function of $c_1$ and $c_2.
+- For the adaptive learning rate, $\eta=c_1/(N + c_2)$ where $N=200$ is the number of iterations, create a 2D heatmap to show the loss function (after 200 iterations) as a function of $c_1$ and $c_2#.
 
 ## NOTE:
 - You do not need to submit your code and results. At the beginning of the next class, we will randomly select two students to talk about each of these two questions. Your grade for this assignment will be determined by the clarity of your presentation and your response to some questions from me and the audience. For the other students, you will receive an A if not selected.
