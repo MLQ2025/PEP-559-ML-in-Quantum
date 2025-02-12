@@ -11,9 +11,9 @@ In this assignment, you will apply two classification models—**Perceptron with
 
 ## NOTE:
 - Let's form teams to tackle this problem. We have ten students, and each team will consist of two members. To make the process easier, I have pre-assigned teams based on your first names:
-  team A: Adam Mathieu, Christopher Cap
-  team B: Esen Dashnyam, Harrison Teele
-  team C: Kaifeng Liu, Khalid Musa
-  team D: Matthew Daddino, Son Nguyen
-  team E: Troy Chartier-Vignapiano, Xiang Wan
+- team A: Adam Mathieu, Christopher Cap
+- team B: Esen Dashnyam, Harrison Teele
+- team C: Kaifeng Liu, Khalid Musa
+- team D: Matthew Daddino, Son Nguyen
+- team E: Troy Chartier-Vignapiano, Xiang Wan
 You can contact your teammate via email. At the beginning of the next lecture, three teams will be randomly selected to present their results and analysis. The assessment will primarily focus on your effort and understanding rather than just the final results.
