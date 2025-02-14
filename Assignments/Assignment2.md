@@ -9,9 +9,8 @@ In this assignment, you will apply two classification models—**Perceptron with
 - Train a Perceptron model using the Adaline learning algorithm with the Mean Squared Error (MSE) loss function. Evaluate the model’s classification performance.
 - Train a Logistic Regression model using the Cross-Entropy loss function. Compare its performance with the Perceptron model.
 
-**02/13/2025 clarification:** You can use scikit-learn to fetch the dataset. But for the training and prediction, you can just modify my code, which allows you to explicitly define the loss function and learning algorithm.
-
-
+## 02/13/2025 clarification
+You can use scikit-learn to fetch the dataset. But for the training and prediction, you can just modify my code, which allows you to explicitly define the loss function and learning algorithm.
 
 ## NOTE:
 Let's form teams to tackle this problem. We have ten students, and each team will consist of two members. To make the process easier, I have pre-assigned teams based on your first names. You can contact your teammate via email. At the beginning of the next lecture, three teams will be randomly selected to present their results and analysis. The assessment will primarily focus on your effort and understanding rather than just the final results.
