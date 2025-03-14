@@ -6,11 +6,11 @@ Read the uploaded lecture notes **"MLP and Backpropagation.pdf"** and consider a
 Using the same notations introduced in the notes, derive and simplify the following partial derivatives:  
 
 $$
-\frac{\partial L}{\partial w_{2,1}^{out}}, \quad
-\frac{\partial L}{\partial w_{2,2}^{out}}, \quad
-\frac{\partial L}{\partial b_1^{out}}, \quad
-\frac{\partial L}{\partial w_{1,2}^{h}}, \quad
-\frac{\partial L}{\partial b_2^{h}}
+\frac{\partial L}{\partial w_{2,1}^{(out)}}, \quad
+\frac{\partial L}{\partial w_{2,2}^{(out)}}, \quad
+\frac{\partial L}{\partial b_1^{(out)}}, \quad
+\frac{\partial L}{\partial w_{1,2}^{(h)}}, \quad
+\frac{\partial L}{\partial b_2^{(h)}}
 $$
 
 ## Question 2: Experimenting with MLP Training  
