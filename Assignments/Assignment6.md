@@ -111,7 +111,7 @@ Build the full $9 \times 9$ Hamiltonian matrix. Specifically, you will find that
 
 ---
 
-### Task 4: Identify leakage
+### step 4: Identify leakage
 
 - Highlight the computational qubit subspace, a 4x4 block of the 9x9 full matrix:
 
