@@ -63,9 +63,9 @@ Let:
 
 ---
 
-## 3. Tasks
+## 3. Building the Matrix
 
-### Task 1: Define the basis
+### step 1: Define the basis
 
 Write out all 9 basis states in lexicographic order:
 
@@ -75,7 +75,7 @@ $$
 
 ---
 
-### Task 2: Apply operators
+### step 2: Apply operators
 
 Show how the operators act on a few basis states:
 
@@ -93,7 +93,7 @@ $$
 
 ---
 
-### Task 3: Compute matrix elements
+### step 3: Compute matrix elements
 
 Using the full Hamiltonian above, compute matrix elements like:
 
