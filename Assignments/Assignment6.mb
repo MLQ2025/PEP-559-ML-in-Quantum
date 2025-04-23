@@ -1,4 +1,4 @@
-Hamiltonian Matrix Representation for Two-Qubit Transmon System
+# Hamiltonian Matrix Representation for Two-Qubit Transmon System
 
 In this assignment, you'll explore the structure of the Hamiltonian used in reinforcement learning optimization of superconducting quantum circuits, as seen in the paper:
 
