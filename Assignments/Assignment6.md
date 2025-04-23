@@ -70,7 +70,7 @@ Let:
 Write out all 9 basis states in lexicographic order:
 
 $$
-|0,0\rangle, |0,1\rangle, |0,2\rangle, |1,0\rangle, |1,1\rangle, |1,2\rangle, |2,0\rangle, |2,1\rangle, |2,2\rangle
+|0,0\rangle, |0,1\rangle, |1,0\rangle, |1,1\rangle, |0,2\rangle, |1,2\rangle, |2,0\rangle, |2,1\rangle, |2,2\rangle
 $$
 
 ---
@@ -80,8 +80,14 @@ $$
 Show how the operators act on a few basis states:
 
 $$
-\hat{a}_1 |1,0\rangle = \sqrt{1} |0,0\rangle \\
-\hat{a}_2^\dagger |1,0\rangle = \sqrt{1} |1,1\rangle \\
+\hat{a}_1 |1,0\rangle = \sqrt{1} |0,0\rangle
+$$
+
+$$
+\hat{a}_2^\dagger |1,0\rangle = \sqrt{1} |1,1\rangle
+$$
+
+$$
 \hat{n}_1 |2,1\rangle = 2 |2,1\rangle
 $$
 
