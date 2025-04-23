@@ -113,7 +113,7 @@ Build the full $9 \times 9$ Hamiltonian matrix. Specifically, you will find that
 
 ### Task 4: Identify leakage
 
-- Highlight the computational qubit subspace:
+- Highlight the computational qubit subspace, a 4x4 block of the 9x9 full matrix:
 
 $$
 |0,0\rangle, |1,0\rangle, |0,1\rangle, |1,1\rangle
@@ -122,23 +122,4 @@ $$
 - Identify which terms in the Hamiltonian can cause transitions from the qubit subspace to leakage levels (where $n_1$ or $n_2 = 2$).
 - Discuss how the drive or coupling contributes to leakage.
 
----
 
-## Deliverables
-
-Submit a PDF or Jupyter Notebook that includes:
-- Full basis state list
-- Examples of operator actions
-- Matrix elements with explanation
-- Discussion of leakage and its sources
-
----
-
-## Tip
-
-You may use Python (NumPy or SymPy) to help with operator algebra and matrix generation.
-
-**Due Date:** _Insert here_  
-**Points:** _Insert here_
-
----
