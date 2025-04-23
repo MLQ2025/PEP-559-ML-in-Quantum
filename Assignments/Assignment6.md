@@ -23,10 +23,10 @@ Examples:
 - $|1, 0\rangle$: qubit 1 excited, qubit 2 in ground state
 - $|0, 1\rangle$: qubit 2 excited
 - $|1, 1\rangle$: both qubits excited
-- $|2, 0\rangle$, $|0, 2\rangle$, etc.: higher excitation (leakage states)
+- $|2, 0\rangle$, $|2, 1\rangle$, $|2, 2\rangle$, $|1, 2\rangle$, $|0, 2\rangle$, etc.: higher excitation (leakage states)
 
 We will construct the matrix representation of the Hamiltonian in a truncated Hilbert space with:
-- $n_1, n_2 \in \{0, 1, 2\}$ → total of 9 basis states
+- $n_1, n_2 \in \{0, 1, 2\}$ → total of 9 basis states, among which, the lowest four form the so-called **qubit subspace**
 
 ---
 
@@ -35,7 +35,10 @@ We will construct the matrix representation of the Hamiltonian in a truncated Hi
 For each transmon, define the annihilation and creation operators:
 
 $$
-\hat{a} |n\rangle = \sqrt{n} |n-1\rangle \\
+\hat{a} |n\rangle = \sqrt{n} |n-1\rangle
+$$
+\\
+$$
 \hat{a}^\dagger |n\rangle = \sqrt{n+1} |n+1\rangle
 $$
 
