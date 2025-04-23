@@ -37,7 +37,7 @@ For each transmon, define the annihilation and creation operators:
 $$
 \hat{a} |n\rangle = \sqrt{n} |n-1\rangle
 $$
-\\
+
 $$
 \hat{a}^\dagger |n\rangle = \sqrt{n+1} |n+1\rangle
 $$
