@@ -98,7 +98,10 @@ $$
 Using the full Hamiltonian above, compute matrix elements like:
 
 $$
-\langle 1,0| \hat{H}_{\text{RWA}}(t) |0,0\rangle = i f_1(t) e^{-i\varphi_1(t)} \sqrt{1} \\
+\langle 1,0| \hat{H}_{\text{RWA}}(t) |0,0\rangle = i f_1(t) e^{-i\varphi_1(t)} \sqrt{1}
+$$
+
+$$
 \langle 1,1| \hat{H}_{\text{RWA}}(t) |0,2\rangle = g(t) \sqrt{1 \cdot 2}
 $$
 
@@ -108,7 +111,7 @@ Build the full $9 \times 9$ Hamiltonian matrix, including:
 
 ---
 
-### Task 4 (Bonus): Identify leakage
+### Task 4: Identify leakage
 
 - Highlight the computational subspace:
 
