@@ -10,7 +10,7 @@ We will walk through how to construct the Hamiltonian matrix for a system of **t
 We adopt the notation from Eq. (1) in the paper, written in the rotating wave approximation (RWA):
 
 $$
-\hat{H} = \frac{\eta}{2} \sum_{j=1}^2 \hat{n}_j (\hat{n}_j - 1) + g(t) \left( \hat{a}_2^\dagger \hat{a}_1
+\hat{H} = \frac{\eta}{2} \sum_{j=1}^2 \hat{n}_j (\hat{n}_j - 1) + g(t) ( \hat{a}_2^\dagger \hat{a}_1
 $$
 
 $$
