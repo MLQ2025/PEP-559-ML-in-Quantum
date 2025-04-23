@@ -113,7 +113,7 @@ Build the full $9 \times 9$ Hamiltonian matrix. Specifically, you will find that
 
 ### step 4: Identify leakage
 
-- Highlight the computational qubit subspace, a 4x4 block of the 9x9 full matrix:
+- Highlight the computational qubit subspace, a 4x4 block of the 9x9 full matrix, spanned by the four basis states:
 
 $$
 |0,0\rangle, |1,0\rangle, |0,1\rangle, |1,1\rangle
