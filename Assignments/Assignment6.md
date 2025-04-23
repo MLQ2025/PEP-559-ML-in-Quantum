@@ -13,7 +13,7 @@ We will walk through how to construct the Hamiltonian matrix for a system of **t
 
 We model each transmon as a **nonlinear oscillator** with discrete energy levels.
 
-Let \( |n_1, n_2\rangle \) denote a **Fock basis state** where:
+Let $ |n_1, n_2\rangle $ denote a **Fock basis state** where:
 - \( n_1 \) = excitation level of **qubit 1**
 - \( n_2 \) = excitation level of **qubit 2**
 
