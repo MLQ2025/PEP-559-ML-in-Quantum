@@ -105,15 +105,15 @@ $$
 \langle 1,1| \hat{H}_{\text{RWA}}(t) |0,2\rangle = g(t) \sqrt{1 \cdot 2}
 $$
 
-Build the full $9 \times 9$ Hamiltonian matrix, including:
-- Diagonal terms from $\hat{n}_j(\hat{n}_j - 1)$ and $\delta_j(t)\hat{n}_j$
-- Off-diagonal terms from coupling and drive
+Build the full $9 \times 9$ Hamiltonian matrix. Specifically, you will find that
+- The diagonal terms arise from $\hat{n}_j(\hat{n}_j - 1)$ and $\delta_j(t)\hat{n}_j$
+- The off-diagonal terms arise from coupling and drive
 
 ---
 
 ### Task 4: Identify leakage
 
-- Highlight the computational subspace:
+- Highlight the computational qubit subspace:
 
 $$
 |0,0\rangle, |1,0\rangle, |0,1\rangle, |1,1\rangle
