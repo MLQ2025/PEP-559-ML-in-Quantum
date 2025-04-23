@@ -14,7 +14,7 @@ $$
 $$
 
 $$
-+ \sum_{j=1}^2 \delta_j(t) \hat{n}_j
+\sum_{j=1}^2 \delta_j(t) \hat{n}_j
 $$
 
 $$
