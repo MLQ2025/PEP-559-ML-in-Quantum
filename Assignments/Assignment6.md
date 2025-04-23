@@ -10,8 +10,12 @@ We will walk through how to construct the Hamiltonian matrix for a system of **t
 We adopt the notation from Eq. (1) in the paper, written in the rotating wave approximation (RWA):
 
 $$
-\hat{H} = \frac{\eta}{2} \sum_{j=1}^2 \hat{n}_j (\hat{n}_j - 1) + g(t) (\hat{a}_2^\dagger \hat{a}_1 + \hat{a}_1^\dagger \hat{a}_2) + \sum_{j=1}^2 \delta_j(t) \hat{n}_j + \sum_{j=1}^2 i f_j(t) \left( \hat{a}_j e^{-i\varphi_j(t)} - \hat{a}_j^\dagger e^{i\varphi_j(t)} \right)
+\hat{H}_{\text{RWA}}(t) = \frac{\eta}{2} \sum_{j=1}^2 \hat{n}_j (\hat{n}_j - 1) 
++ g(t) (\hat{a}_2^\dagger \hat{a}_1 + \hat{a}_1^\dagger \hat{a}_2) 
++ \sum_{j=1}^2 \delta_j(t) \hat{n}_j 
++ \sum_{j=1}^2 i f_j(t) \left( \hat{a}_j e^{-i\varphi_j(t)} - \hat{a}_j^\dagger e^{i\varphi_j(t)} \right)
 $$
+
 
 Where:
 - $\hat{a}_j, \hat{a}_j^\dagger$: annihilation and creation operators for qubit $j$
