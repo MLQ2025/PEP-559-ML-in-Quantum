@@ -14,7 +14,11 @@ $$
 $$
 
 $$
-+ \sum_{j=1}^2 \delta_j(t) \hat{n}_j + \sum_{j=1}^2 i f_j(t) ( \hat{a}_j e^{-i \varphi_j(t)} - \hat{a}_j^\dagger e^{i \varphi_j(t)} )
++ \sum_{j=1}^2 \delta_j(t) \hat{n}_j
+$$
+
+$$
++ + \sum_{j=1}^2 i f_j(t) ( \hat{a}_j e^{-i \varphi_j(t)} - \hat{a}_j^\dagger e^{i \varphi_j(t)} )
 $$
 
 
